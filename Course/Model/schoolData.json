@@ -1,0 +1,135 @@
+[
+    {
+        "id": 1,
+        "day": "Saturday",
+        "lectures": [
+            {
+                "id": 1,
+                "title": "Education",
+                "description": "N/A",
+                "instructor": "DR.Noor",
+                "duration": "50min",
+                "time": "@8:30",
+                "image": "DR.Noor-Education",
+                "hall": "EC11"            },
+            {
+                "id": 2,
+                "title": "Grammar",
+                "description": "N/A",
+                "instructor": "DR.Omar",
+                "duration": "50min",
+                "time": "@10:30",
+                "image": "DR.Omar-Grammar",
+                "hall": "EC23"            },
+            {
+                "id": 3,
+                "title": "Psychology",
+                "description": "N/A",
+                "instructor": "DR.Jasem",
+                "duration": "50min",
+                "time": "@1:30",
+                "image": "DR.Jasem-Psychology",
+                "hall": "EC24"            }
+
+        ]
+    },
+    {
+        "id": 2,
+        "day": "Sunday",
+        "lectures": [
+            {
+                "id": 1,
+                "title": "Voice",
+                "description": "N/A",
+                "instructor": "DR.Ali",
+                "duration": "50min",
+                "time": "@8:30",
+                "image": "DR.Ali-Voice",
+                "hall": "EC21"            },
+            {
+                "id": 2,
+                "title": "Conversation",
+                "description": "N/A",
+                "instructor": "DR.Rami",
+                "duration": "50min",
+                "time": "@12:30",
+                "image": "DR.Rami-Conversation",
+                "hall": "EC23"            }
+        ]
+    },
+    {
+        "id": 3,
+        "day": "Monday",
+        "lectures": [
+            {
+                "id": 1,
+                "title": "Rights",
+                "description": "N/A",
+                "instructor": "DR.Ibrahim",
+                "duration": "50min",
+                "time": "@8:30",
+                "image": "DR.Ibrahim-Rights",
+                "hall": "EC07"
+            },
+            {
+                "id": 2,
+                "title": "Writing",
+                "description": "N/A",
+                "instructor": "DR.Salah",
+                "duration": "50min",
+                "time": "@10:30",
+                "image": "DR.Salah-Writing",
+                "hall": "EC16"
+            },
+            {
+                "id": 3,
+                "title": "Focus",
+                "description": "N/A",
+                "instructor": "DR.Tariq",
+                "duration": "50min",
+                "time": "@12:30",
+                "image": "DR.Tariq-Focus",
+                "hall": "EC16"
+                
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "day": "Tuesday",
+        "lectures": [
+            {
+                "id": 1,
+                "title": "Literature",
+                "description": "N/A",
+                "instructor": "DR.Israa",
+                "duration": "50min",
+                "time": "@8:30",
+                "image": "DR.Israa-Literature",
+                "hall": "EC10"
+                
+            },
+            {
+                "id": 2,
+                "title": "Arabic",
+                "description": "N/A",
+                "instructor": "DR.Jasem",
+                "duration": "50min",
+                "time": "@10:30",
+                "image": "DR.Jasem-Arabic",
+                "hall": "EC04"
+            },
+            {
+                "id": 3,
+                "title": "Computer Science",
+                "description": "N/A",
+                "instructor": "DR.Alia",
+                "duration": "50min",
+                "time": "@1:30",
+                "image": "DR.Alia-Cs",
+                "hall": "EC03"
+            }
+
+        ]
+    }
+]
