@@ -36,7 +36,7 @@ class CourseViewModel: ObservableObject {
     // Fetch and append data Function
     func getData(isAsync async: Bool) {
         // URL
-        guard let url = URL(string: "http://localhost:5050/") else { return }
+        guard let url = URL(string: "http://localhost:8080/") else { return }
     
         // Escaping Function
         downloadData(fromUrl: url) { [weak self] returnedData in
